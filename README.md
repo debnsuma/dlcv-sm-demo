@@ -1,4 +1,4 @@
-# dlcv-sm-demo
+# Mini Workshop on CV Tasks using Amazon SageMaker
 
 Training Computer Vision Models Training and Deployment using Amazon SageMaker 
 
