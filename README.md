@@ -6,9 +6,9 @@ In this mini-workshop, we shall learn how to use SageMaker's built-in algorithms
 a new breakthrough in extracting patterns from images and videos. In these set of demos, we will learn about three built-in algorithms designed specifically for CV tasks.
 
 We will cover the following:
-• Discovering the CV built-in algorithms in Amazon SageMaker
-• Preparing image datasets
-• Using the CV built-in algorithms: 
+- Discovering the CV built-in algorithms in Amazon SageMaker
+- Preparing image datasets
+- Using the CV built-in algorithms: 
   - Image classification, 
   - Object detection, and
   - Semantic segmentation.
